@@ -21,8 +21,8 @@ I enjoy designing systems that combine **clean frontend experiences with scalabl
 
 ### What I enjoy working on:
 
-- Building **full-stack web applications / Blockchain Applications / Chrome-Extensions **
-- Building On ** AWS, GCP , langchain, langraph, langsmith, etc **
+- Building **full-stack web applications / Blockchain Applications / Chrome-Extensions**
+- Building On **AWS, GCP , langchain, langraph, langsmith, etc**
 - Exploring **Artificial Intelligence & Large Language Models**
 - Designing **scalable backend architectures**
 - Creating intuitive **UI/UX experiences**
